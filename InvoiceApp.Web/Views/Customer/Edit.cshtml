@@ -1,0 +1,19 @@
+﻿@model Customer
+
+
+@{
+    ViewBag.Title = "Edit a customer";
+}
+
+<h1>@ViewBag.Title</h1>
+
+<form method="post" asp-action="EditCustomer" >
+
+    <input type="hidden" asp-for="@Model.CustomerId" value="@Model.CustomerId" />
+
+    <partial name="_CustomerFormPartial" model="@Model"></partial>
+
+    <input class="btn btn-primary" type="submit" value="Save" />
+    <a class="btn btn-primary" role="button" asp-action="AllCustomers" >Cancel</a>
+
+</form>

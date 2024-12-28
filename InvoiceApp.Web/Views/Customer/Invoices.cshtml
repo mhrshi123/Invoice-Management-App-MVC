@@ -1,0 +1,201 @@
+﻿@model CustomerInvoicesViewModel
+
+@{
+    ViewBag.Title = $"Invoices for {Model.Customer?.Name}";
+}
+
+<div class="container mt-4">
+
+    <div class="d-flex justify-content-between">
+        <h2>@ViewBag.Title</h2>
+        <h6><a asp-action="AllCustomers">Return to A-E Customers</a></h6>
+    </div>
+
+
+    <div class="row mb-4">
+        <div class="col-md-6">
+            <div class="d-flex justify-content-between">
+                <div>
+                    <h5>Address:</h5>
+                    <p>@Model.Customer.Address1</p>
+                </div>
+                @if (Model.Invoices?.Count > 0)
+                {
+                    <div>
+                        <h5>Terms:</h5>
+                        <p>@Model.SelectedInvoice?.PaymentTerms.Description</p>
+                    </div>
+
+                }
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-6">
+            <h3>Invoices</h3>
+            <div>
+                @if (Model.Invoices?.Count > 0)
+                {
+
+
+                    <div class="container mt-4">
+                        <div class="d-flex bg-dark text-white font-weight-bold">
+                            <div class="p-2 flex-fill">Invoice#</div>
+                            <div class="p-2 flex-fill">Due Date</div>
+                            <div class="p-2 flex-fill">Amount Paid</div>
+                        </div>
+                        @foreach (var invoice in Model.Invoices)
+                        {
+                            var isSelected = Model.SelectedInvoice?.InvoiceId == invoice.InvoiceId; var rowClass = isSelected ? "bg-secondary text-white" : "bg-light text-dark";
+                            <a asp-action="ManageInvoices" asp-route-customerId="@Model.Customer.CustomerId" asp-route-invoiceId="@invoice.InvoiceId" class="text-decoration-none">
+                                <div class="d-flex p-2 border-bottom @rowClass">
+                                    <div class="p-2 flex-fill">@invoice.InvoiceId</div>
+                                    <div class="p-2 flex-fill">@invoice.InvoiceDueDate?.ToShortDateString()</div>
+                                    <div class="p-2 flex-fill">@invoice.PaymentTotal</div>
+                                </div>
+                            </a>
+                        }
+                    </div>
+                }
+
+                else
+                {
+                    <div class="alert alert-info" role="alert">
+                        No invoices found. Add a invoice.
+                    </div>
+                }
+            </div>
+        </div>
+        @if (Model.Invoices?.Count > 0)
+        {
+
+            <div class="col-md-6">
+                <h3>Line Items for #@Model.SelectedInvoice?.InvoiceId</h3>
+
+
+                @if (Model.SelectedInvoice?.LineItems?.Count > 0 && Model.SelectedInvoice?.LineItems != null)
+                {
+                    <div class="container mt-4">
+                        <div class="d-flex bg-dark text-white font-weight-bold">
+                            <div class="p-2 flex-fill">Description</div>
+                            <div class="p-2 flex-fill">Amount</div>
+                        </div>
+                        @foreach (var lineItem in Model.SelectedInvoice.LineItems)
+                        {
+                            <div class="d-flex p-2 border-bottom bg-light text-dark">
+                                <div class="p-2 flex-fill">@lineItem.Description</div>
+                                <div class="p-2 flex-fill">@lineItem.Amount</div>
+                            </div>
+                        }
+                    </div>
+                    <br />
+                    <h6>Total: @Model.LineItemsAmountTotal</h6>
+                }
+                else
+                {
+                    <div class="alert alert-info" role="alert">
+                        No lineitems found. Add a lineitem.
+                    </div>
+                }
+            </div>
+        }
+    </div>
+
+    <div class="row mt-4">
+        <div class="col-md-6">
+            <h3>Add Invoice</h3>
+            <form asp-action="AddInvoice" asp-route-customerId="@Model.Customer.CustomerId">
+
+
+                <input type="hidden" asp-for="@Model.Customer.CustomerId" />
+                <input type="hidden" asp-for="@Model.Customer.Name" />
+                <input type="hidden" asp-for="@Model.Customer.Address1" />
+
+                <input type="hidden" asp-for="@Model.Customer.City" />
+                <input type="hidden" asp-for="@Model.Customer.ProvinceOrState" />
+                <input type="hidden" asp-for="@Model.Customer.ZipOrPostalCode" />
+                <input type="hidden" asp-for="@Model.Customer.Phone" />
+
+
+
+                <div class="form-group">
+                    <label>Date:</label>
+                    <span class="text-danger" asp-validation-for="@Model.NewInvoice.InvoiceDate"></span>
+                    <input type="date" class="form-control" asp-for="@Model.NewInvoice.InvoiceDate">
+                </div>
+
+                <div class="form-group">
+                    <label>Terms:</label>
+                    <span class="text-danger" asp-validation-for="@Model.NewInvoice.PaymentTermsId"></span>
+                    <select class="form-control" asp-for="@Model.NewInvoice.PaymentTermsId">
+
+
+
+                        @foreach (var paymentTerm in Model.PaymentTerms)
+                        {
+                            <option value="@paymentTerm.PaymentTermId">@paymentTerm.Description</option>
+                        }
+
+                    </select>
+                </div>
+
+                <br />
+
+                <input type="submit" class="btn btn-primary" role="button" value="Add Invoice" />
+
+            </form>
+        </div>
+        @if (Model.Invoices?.Count > 0)
+        {
+            <div class="col-md-6">
+                <h3>Add Line Item</h3>
+                <form asp-action="AddLineItem" method="post" asp-route-invoiceId="@Model.SelectedInvoice?.InvoiceId" asp-route-customerId="@Model.Customer.CustomerId">
+
+
+
+                    <input type="hidden" asp-for="@Model.Customer.CustomerId" />
+                    <input type="hidden" asp-for="@Model.Customer.Name" />
+                    <input type="hidden" asp-for="@Model.Customer.Address1" />
+
+                    <input type="hidden" asp-for="@Model.Customer.City" />
+                    <input type="hidden" asp-for="@Model.Customer.ProvinceOrState" />
+                    <input type="hidden" asp-for="@Model.Customer.ZipOrPostalCode" />
+                    <input type="hidden" asp-for="@Model.Customer.Phone" />
+
+
+                    <div class="form-group">
+                        <div class="row">
+                            <div class="col-md-3">
+                                <label for="Description">Description:</label>
+                            </div>
+                            <div class="col-md-9">
+                                <span asp-validation-for="@Model.NewItem.Description" class="text-danger"></span>
+                                <input type="text" asp-for="@Model.NewItem.Description" class="form-control" />
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <div class="row">
+                            <div class="col-md-3">
+                                <label for="Amount">Amount:</label>
+                            </div>
+                            <div class="col-md-9">
+                                <span asp-validation-for="@Model.NewItem.Amount" class="text-danger"></span>
+                                <input type="text" asp-for="@Model.NewItem.Amount" class="form-control" />
+                            </div>
+                        </div>
+                    </div>
+
+                    <br />
+
+                    <input class="btn btn-primary" type="submit" value="Add line item" />
+
+                </form>
+            </div>
+        }
+    </div>
+</div>
+
+

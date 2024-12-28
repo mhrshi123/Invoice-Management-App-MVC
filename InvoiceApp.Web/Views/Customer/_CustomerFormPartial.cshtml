@@ -1,0 +1,69 @@
+﻿@model Customer
+
+@if (ViewData.ModelState.ErrorCount > 0)
+{
+    <div class="alert alert-danger" role="alert">
+        Errors occurred. Please check the form for validation errors.
+    </div>
+}
+
+<div class="form-group mb-3 @(ViewData.ModelState["Name"]?.Errors.Count > 0 ? "fieldError" : "")">
+    <label asp-for="Name">Name:</label>
+    <span asp-validation-for="Name" class="text-danger"></span>
+    <input asp-for="Name" class="form-control" />
+</div>
+
+<div class="form-group mb-3 @(ViewData.ModelState["Address1"]?.Errors.Count > 0 ? "fieldError" : "")">
+    <label asp-for="Address1">Address 1:</label>
+    <span asp-validation-for="Address1" class="text-danger"></span>
+    <input asp-for="Address1" class="form-control" />
+</div>
+
+<div class="form-group mb-3 @(ViewData.ModelState["Address2"]?.Errors.Count > 0 ? "fieldError" : "")">
+    <label asp-for="Address2">Address 2:</label>
+    <span asp-validation-for="Address2" class="text-danger"></span>
+    <input asp-for="Address2" class="form-control" />
+</div>
+
+<div class="form-group mb-3 @(ViewData.ModelState["City"]?.Errors.Count > 0 ? "fieldError" : "")">
+    <label asp-for="City">City:</label>
+    <span asp-validation-for="City" class="text-danger"></span>
+    <input asp-for="City" class="form-control" />
+</div>
+
+<div class="form-group mb-3 @(ViewData.ModelState["ProvinceOrState"]?.Errors.Count > 0 ? "fieldError" : "")">
+    <label asp-for="ProvinceOrState">Province/State:</label>
+    <span asp-validation-for="ProvinceOrState" class="text-danger"></span>
+    <input asp-for="ProvinceOrState" class="form-control" />
+</div>
+
+<div class="form-group mb-3 @(ViewData.ModelState["ZipOrPostalCode"]?.Errors.Count > 0 ? "fieldError" : "")">
+    <label asp-for="ZipOrPostalCode">Zip/Postal Code:</label>
+    <span asp-validation-for="ZipOrPostalCode" class="text-danger"></span>
+    <input asp-for="ZipOrPostalCode" class="form-control" />
+</div>
+
+<div class="form-group mb-3 @(ViewData.ModelState["Phone"]?.Errors.Count > 0 ? "fieldError" : "")">
+    <label asp-for="Phone">Phone:</label>
+    <span asp-validation-for="Phone" class="text-danger"></span>
+    <input asp-for="Phone" class="form-control" />
+</div>
+
+<div class="form-group mb-3 @(ViewData.ModelState["ContactFirstName"]?.Errors.Count > 0 ? "fieldError" : "")">
+    <label asp-for="ContactFirstName">Contact First Name:</label>
+    <span asp-validation-for="ContactFirstName" class="text-danger"></span>
+    <input asp-for="ContactFirstName" class="form-control" />
+</div>
+
+<div class="form-group mb-3 @(ViewData.ModelState["ContactLastName"]?.Errors.Count > 0 ? "fieldError" : "")">
+    <label asp-for="ContactLastName">Contact Last Name:</label>
+    <span asp-validation-for="ContactLastName" class="text-danger"></span>
+    <input asp-for="ContactLastName" class="form-control" />
+</div>
+
+<div class="form-group mb-3 @(ViewData.ModelState["ContactEmail"]?.Errors.Count > 0 ? "fieldError" : "")">
+    <label asp-for="ContactEmail">Contact Email:</label>
+    <span asp-validation-for="ContactEmail" class="text-danger"></span>
+    <input asp-for="ContactEmail" type="text" class="form-control" />
+</div>
+

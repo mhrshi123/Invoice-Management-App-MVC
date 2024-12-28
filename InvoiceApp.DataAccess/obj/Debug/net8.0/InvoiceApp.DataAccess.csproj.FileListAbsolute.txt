@@ -1,0 +1,51 @@
+C:\Users\mhrsh\OneDrive - Conestoga College\3rd_Term\Microsoft_Web_Technologies_PROG2230\InvoiceApp\InvoiceApp.DataAccess\obj\Debug\net8.0\InvoiceApp.DataAccess.csproj.AssemblyReference.cache
+C:\Users\mhrsh\OneDrive - Conestoga College\3rd_Term\Microsoft_Web_Technologies_PROG2230\InvoiceApp\InvoiceApp.DataAccess\obj\Debug\net8.0\InvoiceApp.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mhrsh\OneDrive - Conestoga College\3rd_Term\Microsoft_Web_Technologies_PROG2230\InvoiceApp\InvoiceApp.DataAccess\obj\Debug\net8.0\InvoiceApp.DataAccess.AssemblyInfoInputs.cache
+C:\Users\mhrsh\OneDrive - Conestoga College\3rd_Term\Microsoft_Web_Technologies_PROG2230\InvoiceApp\InvoiceApp.DataAccess\obj\Debug\net8.0\InvoiceApp.DataAccess.AssemblyInfo.cs
+C:\Users\mhrsh\OneDrive - Conestoga College\3rd_Term\Microsoft_Web_Technologies_PROG2230\InvoiceApp\InvoiceApp.DataAccess\obj\Debug\net8.0\InvoiceApp.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\mhrsh\OneDrive - Conestoga College\3rd_Term\Microsoft_Web_Technologies_PROG2230\InvoiceApp\InvoiceApp.DataAccess\bin\Debug\net8.0\InvoiceApp.DataAccess.deps.json
+C:\Users\mhrsh\OneDrive - Conestoga College\3rd_Term\Microsoft_Web_Technologies_PROG2230\InvoiceApp\InvoiceApp.DataAccess\bin\Debug\net8.0\InvoiceApp.DataAccess.dll
+C:\Users\mhrsh\OneDrive - Conestoga College\3rd_Term\Microsoft_Web_Technologies_PROG2230\InvoiceApp\InvoiceApp.DataAccess\bin\Debug\net8.0\InvoiceApp.DataAccess.pdb
+C:\Users\mhrsh\OneDrive - Conestoga College\3rd_Term\Microsoft_Web_Technologies_PROG2230\InvoiceApp\InvoiceApp.DataAccess\obj\Debug\net8.0\InvoiceApp.DataAccess.dll
+C:\Users\mhrsh\OneDrive - Conestoga College\3rd_Term\Microsoft_Web_Technologies_PROG2230\InvoiceApp\InvoiceApp.DataAccess\obj\Debug\net8.0\refint\InvoiceApp.DataAccess.dll
+C:\Users\mhrsh\OneDrive - Conestoga College\3rd_Term\Microsoft_Web_Technologies_PROG2230\InvoiceApp\InvoiceApp.DataAccess\obj\Debug\net8.0\InvoiceApp.DataAccess.pdb
+C:\Users\mhrsh\OneDrive - Conestoga College\3rd_Term\Microsoft_Web_Technologies_PROG2230\InvoiceApp\InvoiceApp.DataAccess\obj\Debug\net8.0\ref\InvoiceApp.DataAccess.dll
+C:\Users\Mpandya0553\Desktop\Assignment2_msWebTech\MS_WEB_TECH_A3\InvoiceApp_github\InvoiceApp.DataAccess\obj\Debug\net8.0\InvoiceApp.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Mpandya0553\Desktop\Assignment2_msWebTech\MS_WEB_TECH_A3\InvoiceApp_github\InvoiceApp.DataAccess\obj\Debug\net8.0\InvoiceApp.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mpandya0553\Desktop\Assignment2_msWebTech\MS_WEB_TECH_A3\InvoiceApp_github\InvoiceApp.DataAccess\obj\Debug\net8.0\InvoiceApp.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Mpandya0553\Desktop\Assignment2_msWebTech\MS_WEB_TECH_A3\InvoiceApp_github\InvoiceApp.DataAccess\obj\Debug\net8.0\InvoiceApp.DataAccess.AssemblyInfo.cs
+C:\Users\Mpandya0553\Desktop\Assignment2_msWebTech\MS_WEB_TECH_A3\InvoiceApp_github\InvoiceApp.DataAccess\obj\Debug\net8.0\InvoiceApp.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Mpandya0553\Desktop\Assignment2_msWebTech\MS_WEB_TECH_A3\InvoiceApp_github\InvoiceApp.DataAccess\obj\Debug\net8.0\InvoiceApp.DataAccess.sourcelink.json
+C:\Users\Mpandya0553\Desktop\Assignment2_msWebTech\MS_WEB_TECH_A3\InvoiceApp_github\InvoiceApp.DataAccess\obj\Debug\net8.0\InvoiceApp.DataAccess.dll
+C:\Users\Mpandya0553\Desktop\Assignment2_msWebTech\MS_WEB_TECH_A3\InvoiceApp_github\InvoiceApp.DataAccess\obj\Debug\net8.0\refint\InvoiceApp.DataAccess.dll
+C:\Users\Mpandya0553\Desktop\Assignment2_msWebTech\MS_WEB_TECH_A3\InvoiceApp_github\InvoiceApp.DataAccess\obj\Debug\net8.0\InvoiceApp.DataAccess.pdb
+C:\Users\Mpandya0553\Desktop\Assignment2_msWebTech\MS_WEB_TECH_A3\InvoiceApp_github\InvoiceApp.DataAccess\bin\Debug\net8.0\InvoiceApp.DataAccess.deps.json
+C:\Users\Mpandya0553\Desktop\Assignment2_msWebTech\MS_WEB_TECH_A3\InvoiceApp_github\InvoiceApp.DataAccess\bin\Debug\net8.0\InvoiceApp.DataAccess.dll
+C:\Users\Mpandya0553\Desktop\Assignment2_msWebTech\MS_WEB_TECH_A3\InvoiceApp_github\InvoiceApp.DataAccess\bin\Debug\net8.0\InvoiceApp.DataAccess.pdb
+C:\Users\Mpandya0553\Desktop\Assignment2_msWebTech\MS_WEB_TECH_A3\InvoiceApp_github\InvoiceApp.DataAccess\obj\Debug\net8.0\ref\InvoiceApp.DataAccess.dll
+C:\Users\mhrsh\OneDrive - Conestoga College\3rd_Term\Microsoft_Web_Technologies_PROG2230\Assignments\MS_WEB_TECH_A3\MS_WEB_TECH_A3\InvoiceApp_github\InvoiceApp.DataAccess\bin\Debug\net8.0\InvoiceApp.DataAccess.deps.json
+C:\Users\mhrsh\OneDrive - Conestoga College\3rd_Term\Microsoft_Web_Technologies_PROG2230\Assignments\MS_WEB_TECH_A3\MS_WEB_TECH_A3\InvoiceApp_github\InvoiceApp.DataAccess\bin\Debug\net8.0\InvoiceApp.DataAccess.dll
+C:\Users\mhrsh\OneDrive - Conestoga College\3rd_Term\Microsoft_Web_Technologies_PROG2230\Assignments\MS_WEB_TECH_A3\MS_WEB_TECH_A3\InvoiceApp_github\InvoiceApp.DataAccess\bin\Debug\net8.0\InvoiceApp.DataAccess.pdb
+C:\Users\mhrsh\OneDrive - Conestoga College\3rd_Term\Microsoft_Web_Technologies_PROG2230\Assignments\MS_WEB_TECH_A3\MS_WEB_TECH_A3\InvoiceApp_github\InvoiceApp.DataAccess\obj\Debug\net8.0\InvoiceApp.DataAccess.csproj.AssemblyReference.cache
+C:\Users\mhrsh\OneDrive - Conestoga College\3rd_Term\Microsoft_Web_Technologies_PROG2230\Assignments\MS_WEB_TECH_A3\MS_WEB_TECH_A3\InvoiceApp_github\InvoiceApp.DataAccess\obj\Debug\net8.0\InvoiceApp.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mhrsh\OneDrive - Conestoga College\3rd_Term\Microsoft_Web_Technologies_PROG2230\Assignments\MS_WEB_TECH_A3\MS_WEB_TECH_A3\InvoiceApp_github\InvoiceApp.DataAccess\obj\Debug\net8.0\InvoiceApp.DataAccess.AssemblyInfoInputs.cache
+C:\Users\mhrsh\OneDrive - Conestoga College\3rd_Term\Microsoft_Web_Technologies_PROG2230\Assignments\MS_WEB_TECH_A3\MS_WEB_TECH_A3\InvoiceApp_github\InvoiceApp.DataAccess\obj\Debug\net8.0\InvoiceApp.DataAccess.AssemblyInfo.cs
+C:\Users\mhrsh\OneDrive - Conestoga College\3rd_Term\Microsoft_Web_Technologies_PROG2230\Assignments\MS_WEB_TECH_A3\MS_WEB_TECH_A3\InvoiceApp_github\InvoiceApp.DataAccess\obj\Debug\net8.0\InvoiceApp.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\mhrsh\OneDrive - Conestoga College\3rd_Term\Microsoft_Web_Technologies_PROG2230\Assignments\MS_WEB_TECH_A3\MS_WEB_TECH_A3\InvoiceApp_github\InvoiceApp.DataAccess\obj\Debug\net8.0\InvoiceApp.DataAccess.sourcelink.json
+C:\Users\mhrsh\OneDrive - Conestoga College\3rd_Term\Microsoft_Web_Technologies_PROG2230\Assignments\MS_WEB_TECH_A3\MS_WEB_TECH_A3\InvoiceApp_github\InvoiceApp.DataAccess\obj\Debug\net8.0\InvoiceApp.DataAccess.dll
+C:\Users\mhrsh\OneDrive - Conestoga College\3rd_Term\Microsoft_Web_Technologies_PROG2230\Assignments\MS_WEB_TECH_A3\MS_WEB_TECH_A3\InvoiceApp_github\InvoiceApp.DataAccess\obj\Debug\net8.0\refint\InvoiceApp.DataAccess.dll
+C:\Users\mhrsh\OneDrive - Conestoga College\3rd_Term\Microsoft_Web_Technologies_PROG2230\Assignments\MS_WEB_TECH_A3\MS_WEB_TECH_A3\InvoiceApp_github\InvoiceApp.DataAccess\obj\Debug\net8.0\InvoiceApp.DataAccess.pdb
+C:\Users\mhrsh\OneDrive - Conestoga College\3rd_Term\Microsoft_Web_Technologies_PROG2230\Assignments\MS_WEB_TECH_A3\MS_WEB_TECH_A3\InvoiceApp_github\InvoiceApp.DataAccess\obj\Debug\net8.0\ref\InvoiceApp.DataAccess.dll
+C:\Users\mhrsh\OneDrive - Conestoga College\3rd_Term\Microsoft_Web_Technologies_PROG2230\Assignments\MS_WEB_TECH_A3\MS_WEB_TECH_A3\InvoiceApp\InvoiceApp.DataAccess\bin\Debug\net8.0\InvoiceApp.DataAccess.deps.json
+C:\Users\mhrsh\OneDrive - Conestoga College\3rd_Term\Microsoft_Web_Technologies_PROG2230\Assignments\MS_WEB_TECH_A3\MS_WEB_TECH_A3\InvoiceApp\InvoiceApp.DataAccess\bin\Debug\net8.0\InvoiceApp.DataAccess.dll
+C:\Users\mhrsh\OneDrive - Conestoga College\3rd_Term\Microsoft_Web_Technologies_PROG2230\Assignments\MS_WEB_TECH_A3\MS_WEB_TECH_A3\InvoiceApp\InvoiceApp.DataAccess\bin\Debug\net8.0\InvoiceApp.DataAccess.pdb
+C:\Users\mhrsh\OneDrive - Conestoga College\3rd_Term\Microsoft_Web_Technologies_PROG2230\Assignments\MS_WEB_TECH_A3\MS_WEB_TECH_A3\InvoiceApp\InvoiceApp.DataAccess\obj\Debug\net8.0\InvoiceApp.DataAccess.csproj.AssemblyReference.cache
+C:\Users\mhrsh\OneDrive - Conestoga College\3rd_Term\Microsoft_Web_Technologies_PROG2230\Assignments\MS_WEB_TECH_A3\MS_WEB_TECH_A3\InvoiceApp\InvoiceApp.DataAccess\obj\Debug\net8.0\InvoiceApp.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mhrsh\OneDrive - Conestoga College\3rd_Term\Microsoft_Web_Technologies_PROG2230\Assignments\MS_WEB_TECH_A3\MS_WEB_TECH_A3\InvoiceApp\InvoiceApp.DataAccess\obj\Debug\net8.0\InvoiceApp.DataAccess.AssemblyInfoInputs.cache
+C:\Users\mhrsh\OneDrive - Conestoga College\3rd_Term\Microsoft_Web_Technologies_PROG2230\Assignments\MS_WEB_TECH_A3\MS_WEB_TECH_A3\InvoiceApp\InvoiceApp.DataAccess\obj\Debug\net8.0\InvoiceApp.DataAccess.AssemblyInfo.cs
+C:\Users\mhrsh\OneDrive - Conestoga College\3rd_Term\Microsoft_Web_Technologies_PROG2230\Assignments\MS_WEB_TECH_A3\MS_WEB_TECH_A3\InvoiceApp\InvoiceApp.DataAccess\obj\Debug\net8.0\InvoiceApp.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\mhrsh\OneDrive - Conestoga College\3rd_Term\Microsoft_Web_Technologies_PROG2230\Assignments\MS_WEB_TECH_A3\MS_WEB_TECH_A3\InvoiceApp\InvoiceApp.DataAccess\obj\Debug\net8.0\InvoiceApp.DataAccess.sourcelink.json
+C:\Users\mhrsh\OneDrive - Conestoga College\3rd_Term\Microsoft_Web_Technologies_PROG2230\Assignments\MS_WEB_TECH_A3\MS_WEB_TECH_A3\InvoiceApp\InvoiceApp.DataAccess\obj\Debug\net8.0\InvoiceApp.DataAccess.dll
+C:\Users\mhrsh\OneDrive - Conestoga College\3rd_Term\Microsoft_Web_Technologies_PROG2230\Assignments\MS_WEB_TECH_A3\MS_WEB_TECH_A3\InvoiceApp\InvoiceApp.DataAccess\obj\Debug\net8.0\refint\InvoiceApp.DataAccess.dll
+C:\Users\mhrsh\OneDrive - Conestoga College\3rd_Term\Microsoft_Web_Technologies_PROG2230\Assignments\MS_WEB_TECH_A3\MS_WEB_TECH_A3\InvoiceApp\InvoiceApp.DataAccess\obj\Debug\net8.0\InvoiceApp.DataAccess.pdb
+C:\Users\mhrsh\OneDrive - Conestoga College\3rd_Term\Microsoft_Web_Technologies_PROG2230\Assignments\MS_WEB_TECH_A3\MS_WEB_TECH_A3\InvoiceApp\InvoiceApp.DataAccess\obj\Debug\net8.0\ref\InvoiceApp.DataAccess.dll

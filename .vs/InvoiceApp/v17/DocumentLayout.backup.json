@@ -1,0 +1,278 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mhrsh\\OneDrive - Conestoga College\\3rd_Term\\Microsoft_Web_Technologies_PROG2230\\Assignments\\MS_WEB_TECH_A3\\MS_WEB_TECH_A3\\InvoiceApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{09447C6C-F88B-41E5-9EC0-A804DEB0A70C}|InvoiceApp.Web\\InvoiceApp.Web.csproj|c:\\users\\mhrsh\\onedrive - conestoga college\\3rd_term\\microsoft_web_technologies_prog2230\\assignments\\ms_web_tech_a3\\ms_web_tech_a3\\invoiceapp\\invoiceapp.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09447C6C-F88B-41E5-9EC0-A804DEB0A70C}|InvoiceApp.Web\\InvoiceApp.Web.csproj|solutionrelative:invoiceapp.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4FCB6D6-5E63-4B7D-B018-7D0E1CFDF2AE}|InvoiceApp.Tests\\InvoiceApp.Tests.csproj|c:\\users\\mhrsh\\onedrive - conestoga college\\3rd_term\\microsoft_web_technologies_prog2230\\assignments\\ms_web_tech_a3\\ms_web_tech_a3\\invoiceapp\\invoiceapp.tests\\homecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4FCB6D6-5E63-4B7D-B018-7D0E1CFDF2AE}|InvoiceApp.Tests\\InvoiceApp.Tests.csproj|solutionrelative:invoiceapp.tests\\homecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4FCB6D6-5E63-4B7D-B018-7D0E1CFDF2AE}|InvoiceApp.Tests\\InvoiceApp.Tests.csproj|c:\\users\\mhrsh\\onedrive - conestoga college\\3rd_term\\microsoft_web_technologies_prog2230\\assignments\\ms_web_tech_a3\\ms_web_tech_a3\\invoiceapp\\invoiceapp.tests\\customercontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4FCB6D6-5E63-4B7D-B018-7D0E1CFDF2AE}|InvoiceApp.Tests\\InvoiceApp.Tests.csproj|solutionrelative:invoiceapp.tests\\customercontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09447C6C-F88B-41E5-9EC0-A804DEB0A70C}|InvoiceApp.Web\\InvoiceApp.Web.csproj|c:\\users\\mhrsh\\onedrive - conestoga college\\3rd_term\\microsoft_web_technologies_prog2230\\assignments\\ms_web_tech_a3\\ms_web_tech_a3\\invoiceapp\\invoiceapp.web\\views\\customer\\invoices.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{09447C6C-F88B-41E5-9EC0-A804DEB0A70C}|InvoiceApp.Web\\InvoiceApp.Web.csproj|solutionrelative:invoiceapp.web\\views\\customer\\invoices.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09447C6C-F88B-41E5-9EC0-A804DEB0A70C}|InvoiceApp.Web\\InvoiceApp.Web.csproj|c:\\users\\mhrsh\\onedrive - conestoga college\\3rd_term\\microsoft_web_technologies_prog2230\\assignments\\ms_web_tech_a3\\ms_web_tech_a3\\invoiceapp\\invoiceapp.web\\models\\customersviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09447C6C-F88B-41E5-9EC0-A804DEB0A70C}|InvoiceApp.Web\\InvoiceApp.Web.csproj|solutionrelative:invoiceapp.web\\models\\customersviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09447C6C-F88B-41E5-9EC0-A804DEB0A70C}|InvoiceApp.Web\\InvoiceApp.Web.csproj|c:\\users\\mhrsh\\onedrive - conestoga college\\3rd_term\\microsoft_web_technologies_prog2230\\assignments\\ms_web_tech_a3\\ms_web_tech_a3\\invoiceapp\\invoiceapp.web\\models\\customerinvoicesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09447C6C-F88B-41E5-9EC0-A804DEB0A70C}|InvoiceApp.Web\\InvoiceApp.Web.csproj|solutionrelative:invoiceapp.web\\models\\customerinvoicesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4FCB6D6-5E63-4B7D-B018-7D0E1CFDF2AE}|InvoiceApp.Tests\\InvoiceApp.Tests.csproj|c:\\users\\mhrsh\\onedrive - conestoga college\\3rd_term\\microsoft_web_technologies_prog2230\\assignments\\ms_web_tech_a3\\ms_web_tech_a3\\invoiceapp\\invoiceapp.tests\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4FCB6D6-5E63-4B7D-B018-7D0E1CFDF2AE}|InvoiceApp.Tests\\InvoiceApp.Tests.csproj|solutionrelative:invoiceapp.tests\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09447C6C-F88B-41E5-9EC0-A804DEB0A70C}|InvoiceApp.Web\\InvoiceApp.Web.csproj|c:\\users\\mhrsh\\onedrive - conestoga college\\3rd_term\\microsoft_web_technologies_prog2230\\assignments\\ms_web_tech_a3\\ms_web_tech_a3\\invoiceapp\\invoiceapp.web\\views\\customer\\all.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{09447C6C-F88B-41E5-9EC0-A804DEB0A70C}|InvoiceApp.Web\\InvoiceApp.Web.csproj|solutionrelative:invoiceapp.web\\views\\customer\\all.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B4A7D09-4E4C-46E1-866F-3D8B2BE0D6B0}|InvoiceApp.DataAccess\\InvoiceApp.DataAccess.csproj|c:\\users\\mhrsh\\onedrive - conestoga college\\3rd_term\\microsoft_web_technologies_prog2230\\assignments\\ms_web_tech_a3\\ms_web_tech_a3\\invoiceapp\\invoiceapp.dataaccess\\entities\\invoiceappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B4A7D09-4E4C-46E1-866F-3D8B2BE0D6B0}|InvoiceApp.DataAccess\\InvoiceApp.DataAccess.csproj|solutionrelative:invoiceapp.dataaccess\\entities\\invoiceappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B4A7D09-4E4C-46E1-866F-3D8B2BE0D6B0}|InvoiceApp.DataAccess\\InvoiceApp.DataAccess.csproj|c:\\users\\mhrsh\\onedrive - conestoga college\\3rd_term\\microsoft_web_technologies_prog2230\\assignments\\ms_web_tech_a3\\ms_web_tech_a3\\invoiceapp\\invoiceapp.dataaccess\\entities\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B4A7D09-4E4C-46E1-866F-3D8B2BE0D6B0}|InvoiceApp.DataAccess\\InvoiceApp.DataAccess.csproj|solutionrelative:invoiceapp.dataaccess\\entities\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B4A7D09-4E4C-46E1-866F-3D8B2BE0D6B0}|InvoiceApp.DataAccess\\InvoiceApp.DataAccess.csproj|c:\\users\\mhrsh\\onedrive - conestoga college\\3rd_term\\microsoft_web_technologies_prog2230\\assignments\\ms_web_tech_a3\\ms_web_tech_a3\\invoiceapp\\invoiceapp.dataaccess\\migrations\\20241121064509_initial state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B4A7D09-4E4C-46E1-866F-3D8B2BE0D6B0}|InvoiceApp.DataAccess\\InvoiceApp.DataAccess.csproj|solutionrelative:invoiceapp.dataaccess\\migrations\\20241121064509_initial state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09447C6C-F88B-41E5-9EC0-A804DEB0A70C}|InvoiceApp.Web\\InvoiceApp.Web.csproj|c:\\users\\mhrsh\\onedrive - conestoga college\\3rd_term\\microsoft_web_technologies_prog2230\\assignments\\ms_web_tech_a3\\ms_web_tech_a3\\invoiceapp\\invoiceapp.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09447C6C-F88B-41E5-9EC0-A804DEB0A70C}|InvoiceApp.Web\\InvoiceApp.Web.csproj|solutionrelative:invoiceapp.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09447C6C-F88B-41E5-9EC0-A804DEB0A70C}|InvoiceApp.Web\\InvoiceApp.Web.csproj|c:\\users\\mhrsh\\onedrive - conestoga college\\3rd_term\\microsoft_web_technologies_prog2230\\assignments\\ms_web_tech_a3\\ms_web_tech_a3\\invoiceapp\\invoiceapp.web\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{09447C6C-F88B-41E5-9EC0-A804DEB0A70C}|InvoiceApp.Web\\InvoiceApp.Web.csproj|solutionrelative:invoiceapp.web\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09447C6C-F88B-41E5-9EC0-A804DEB0A70C}|InvoiceApp.Web\\InvoiceApp.Web.csproj|c:\\users\\mhrsh\\onedrive - conestoga college\\3rd_term\\microsoft_web_technologies_prog2230\\assignments\\ms_web_tech_a3\\ms_web_tech_a3\\invoiceapp\\invoiceapp.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{09447C6C-F88B-41E5-9EC0-A804DEB0A70C}|InvoiceApp.Web\\InvoiceApp.Web.csproj|solutionrelative:invoiceapp.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09447C6C-F88B-41E5-9EC0-A804DEB0A70C}|InvoiceApp.Web\\InvoiceApp.Web.csproj|c:\\users\\mhrsh\\onedrive - conestoga college\\3rd_term\\microsoft_web_technologies_prog2230\\assignments\\ms_web_tech_a3\\ms_web_tech_a3\\invoiceapp\\invoiceapp.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{09447C6C-F88B-41E5-9EC0-A804DEB0A70C}|InvoiceApp.Web\\InvoiceApp.Web.csproj|solutionrelative:invoiceapp.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "All.cshtml",
+              "DocumentMoniker": "C:\\Users\\mhrsh\\OneDrive - Conestoga College\\3rd_Term\\Microsoft_Web_Technologies_PROG2230\\Assignments\\MS_WEB_TECH_A3\\MS_WEB_TECH_A3\\InvoiceApp\\InvoiceApp.Web\\Views\\Customer\\All.cshtml",
+              "RelativeDocumentMoniker": "InvoiceApp.Web\\Views\\Customer\\All.cshtml",
+              "ToolTip": "C:\\Users\\mhrsh\\OneDrive - Conestoga College\\3rd_Term\\Microsoft_Web_Technologies_PROG2230\\Assignments\\MS_WEB_TECH_A3\\MS_WEB_TECH_A3\\InvoiceApp\\InvoiceApp.Web\\Views\\Customer\\All.cshtml",
+              "RelativeToolTip": "InvoiceApp.Web\\Views\\Customer\\All.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T01:09:46.78Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\mhrsh\\OneDrive - Conestoga College\\3rd_Term\\Microsoft_Web_Technologies_PROG2230\\Assignments\\MS_WEB_TECH_A3\\MS_WEB_TECH_A3\\InvoiceApp\\InvoiceApp.Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "InvoiceApp.Web\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\mhrsh\\OneDrive - Conestoga College\\3rd_Term\\Microsoft_Web_Technologies_PROG2230\\Assignments\\MS_WEB_TECH_A3\\MS_WEB_TECH_A3\\InvoiceApp\\InvoiceApp.Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "InvoiceApp.Web\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T05:47:01.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\mhrsh\\OneDrive - Conestoga College\\3rd_Term\\Microsoft_Web_Technologies_PROG2230\\Assignments\\MS_WEB_TECH_A3\\MS_WEB_TECH_A3\\InvoiceApp\\InvoiceApp.Tests\\CustomerControllerTests.cs",
+              "RelativeDocumentMoniker": "InvoiceApp.Tests\\CustomerControllerTests.cs",
+              "ToolTip": "C:\\Users\\mhrsh\\OneDrive - Conestoga College\\3rd_Term\\Microsoft_Web_Technologies_PROG2230\\Assignments\\MS_WEB_TECH_A3\\MS_WEB_TECH_A3\\InvoiceApp\\InvoiceApp.Tests\\CustomerControllerTests.cs",
+              "RelativeToolTip": "InvoiceApp.Tests\\CustomerControllerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T05:46:56.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Invoices.cshtml",
+              "DocumentMoniker": "C:\\Users\\mhrsh\\OneDrive - Conestoga College\\3rd_Term\\Microsoft_Web_Technologies_PROG2230\\Assignments\\MS_WEB_TECH_A3\\MS_WEB_TECH_A3\\InvoiceApp\\InvoiceApp.Web\\Views\\Customer\\Invoices.cshtml",
+              "RelativeDocumentMoniker": "InvoiceApp.Web\\Views\\Customer\\Invoices.cshtml",
+              "ToolTip": "C:\\Users\\mhrsh\\OneDrive - Conestoga College\\3rd_Term\\Microsoft_Web_Technologies_PROG2230\\Assignments\\MS_WEB_TECH_A3\\MS_WEB_TECH_A3\\InvoiceApp\\InvoiceApp.Web\\Views\\Customer\\Invoices.cshtml",
+              "RelativeToolTip": "InvoiceApp.Web\\Views\\Customer\\Invoices.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-12T05:46:46.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomersViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\mhrsh\\OneDrive - Conestoga College\\3rd_Term\\Microsoft_Web_Technologies_PROG2230\\Assignments\\MS_WEB_TECH_A3\\MS_WEB_TECH_A3\\InvoiceApp\\InvoiceApp.Web\\Models\\CustomersViewModel.cs",
+              "RelativeDocumentMoniker": "InvoiceApp.Web\\Models\\CustomersViewModel.cs",
+              "ToolTip": "C:\\Users\\mhrsh\\OneDrive - Conestoga College\\3rd_Term\\Microsoft_Web_Technologies_PROG2230\\Assignments\\MS_WEB_TECH_A3\\MS_WEB_TECH_A3\\InvoiceApp\\InvoiceApp.Web\\Models\\CustomersViewModel.cs",
+              "RelativeToolTip": "InvoiceApp.Web\\Models\\CustomersViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T05:46:41.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomerInvoicesViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\mhrsh\\OneDrive - Conestoga College\\3rd_Term\\Microsoft_Web_Technologies_PROG2230\\Assignments\\MS_WEB_TECH_A3\\MS_WEB_TECH_A3\\InvoiceApp\\InvoiceApp.Web\\Models\\CustomerInvoicesViewModel.cs",
+              "RelativeDocumentMoniker": "InvoiceApp.Web\\Models\\CustomerInvoicesViewModel.cs",
+              "ToolTip": "C:\\Users\\mhrsh\\OneDrive - Conestoga College\\3rd_Term\\Microsoft_Web_Technologies_PROG2230\\Assignments\\MS_WEB_TECH_A3\\MS_WEB_TECH_A3\\InvoiceApp\\InvoiceApp.Web\\Models\\CustomerInvoicesViewModel.cs",
+              "RelativeToolTip": "InvoiceApp.Web\\Models\\CustomerInvoicesViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T05:46:40.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "C:\\Users\\mhrsh\\OneDrive - Conestoga College\\3rd_Term\\Microsoft_Web_Technologies_PROG2230\\Assignments\\MS_WEB_TECH_A3\\MS_WEB_TECH_A3\\InvoiceApp\\InvoiceApp.Tests\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "InvoiceApp.Tests\\GlobalUsings.cs",
+              "ToolTip": "C:\\Users\\mhrsh\\OneDrive - Conestoga College\\3rd_Term\\Microsoft_Web_Technologies_PROG2230\\Assignments\\MS_WEB_TECH_A3\\MS_WEB_TECH_A3\\InvoiceApp\\InvoiceApp.Tests\\GlobalUsings.cs",
+              "RelativeToolTip": "InvoiceApp.Tests\\GlobalUsings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T01:21:42.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InvoiceAppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\mhrsh\\OneDrive - Conestoga College\\3rd_Term\\Microsoft_Web_Technologies_PROG2230\\Assignments\\MS_WEB_TECH_A3\\MS_WEB_TECH_A3\\InvoiceApp\\InvoiceApp.DataAccess\\Entities\\InvoiceAppDbContext.cs",
+              "RelativeDocumentMoniker": "InvoiceApp.DataAccess\\Entities\\InvoiceAppDbContext.cs",
+              "ToolTip": "C:\\Users\\mhrsh\\OneDrive - Conestoga College\\3rd_Term\\Microsoft_Web_Technologies_PROG2230\\Assignments\\MS_WEB_TECH_A3\\MS_WEB_TECH_A3\\InvoiceApp\\InvoiceApp.DataAccess\\Entities\\InvoiceAppDbContext.cs",
+              "RelativeToolTip": "InvoiceApp.DataAccess\\Entities\\InvoiceAppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T00:35:06.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Invoice.cs",
+              "DocumentMoniker": "C:\\Users\\mhrsh\\OneDrive - Conestoga College\\3rd_Term\\Microsoft_Web_Technologies_PROG2230\\Assignments\\MS_WEB_TECH_A3\\MS_WEB_TECH_A3\\InvoiceApp\\InvoiceApp.DataAccess\\Entities\\Invoice.cs",
+              "RelativeDocumentMoniker": "InvoiceApp.DataAccess\\Entities\\Invoice.cs",
+              "ToolTip": "C:\\Users\\mhrsh\\OneDrive - Conestoga College\\3rd_Term\\Microsoft_Web_Technologies_PROG2230\\Assignments\\MS_WEB_TECH_A3\\MS_WEB_TECH_A3\\InvoiceApp\\InvoiceApp.DataAccess\\Entities\\Invoice.cs",
+              "RelativeToolTip": "InvoiceApp.DataAccess\\Entities\\Invoice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T00:27:06.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\mhrsh\\OneDrive - Conestoga College\\3rd_Term\\Microsoft_Web_Technologies_PROG2230\\Assignments\\MS_WEB_TECH_A3\\MS_WEB_TECH_A3\\InvoiceApp\\InvoiceApp.Tests\\HomeControllerTests.cs",
+              "RelativeDocumentMoniker": "InvoiceApp.Tests\\HomeControllerTests.cs",
+              "ToolTip": "C:\\Users\\mhrsh\\OneDrive - Conestoga College\\3rd_Term\\Microsoft_Web_Technologies_PROG2230\\Assignments\\MS_WEB_TECH_A3\\MS_WEB_TECH_A3\\InvoiceApp\\InvoiceApp.Tests\\HomeControllerTests.cs",
+              "RelativeToolTip": "InvoiceApp.Tests\\HomeControllerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T06:46:39.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20241121064509_Initial State.cs",
+              "DocumentMoniker": "C:\\Users\\mhrsh\\OneDrive - Conestoga College\\3rd_Term\\Microsoft_Web_Technologies_PROG2230\\Assignments\\MS_WEB_TECH_A3\\MS_WEB_TECH_A3\\InvoiceApp\\InvoiceApp.DataAccess\\Migrations\\20241121064509_Initial State.cs",
+              "RelativeDocumentMoniker": "InvoiceApp.DataAccess\\Migrations\\20241121064509_Initial State.cs",
+              "ToolTip": "C:\\Users\\mhrsh\\OneDrive - Conestoga College\\3rd_Term\\Microsoft_Web_Technologies_PROG2230\\Assignments\\MS_WEB_TECH_A3\\MS_WEB_TECH_A3\\InvoiceApp\\InvoiceApp.DataAccess\\Migrations\\20241121064509_Initial State.cs",
+              "RelativeToolTip": "InvoiceApp.DataAccess\\Migrations\\20241121064509_Initial State.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T06:45:09.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\mhrsh\\OneDrive - Conestoga College\\3rd_Term\\Microsoft_Web_Technologies_PROG2230\\Assignments\\MS_WEB_TECH_A3\\MS_WEB_TECH_A3\\InvoiceApp\\InvoiceApp.Web\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "InvoiceApp.Web\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\mhrsh\\OneDrive - Conestoga College\\3rd_Term\\Microsoft_Web_Technologies_PROG2230\\Assignments\\MS_WEB_TECH_A3\\MS_WEB_TECH_A3\\InvoiceApp\\InvoiceApp.Web\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "InvoiceApp.Web\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-16T01:25:34.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mhrsh\\OneDrive - Conestoga College\\3rd_Term\\Microsoft_Web_Technologies_PROG2230\\Assignments\\MS_WEB_TECH_A3\\MS_WEB_TECH_A3\\InvoiceApp\\InvoiceApp.Web\\Program.cs",
+              "RelativeDocumentMoniker": "InvoiceApp.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\mhrsh\\OneDrive - Conestoga College\\3rd_Term\\Microsoft_Web_Technologies_PROG2230\\Assignments\\MS_WEB_TECH_A3\\MS_WEB_TECH_A3\\InvoiceApp\\InvoiceApp.Web\\Program.cs",
+              "RelativeToolTip": "InvoiceApp.Web\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T07:45:46.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\mhrsh\\OneDrive - Conestoga College\\3rd_Term\\Microsoft_Web_Technologies_PROG2230\\Assignments\\MS_WEB_TECH_A3\\MS_WEB_TECH_A3\\InvoiceApp\\InvoiceApp.Web\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "InvoiceApp.Web\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\mhrsh\\OneDrive - Conestoga College\\3rd_Term\\Microsoft_Web_Technologies_PROG2230\\Assignments\\MS_WEB_TECH_A3\\MS_WEB_TECH_A3\\InvoiceApp\\InvoiceApp.Web\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "InvoiceApp.Web\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-16T00:02:52.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mhrsh\\OneDrive - Conestoga College\\3rd_Term\\Microsoft_Web_Technologies_PROG2230\\Assignments\\MS_WEB_TECH_A3\\MS_WEB_TECH_A3\\InvoiceApp\\InvoiceApp.Web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "InvoiceApp.Web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mhrsh\\OneDrive - Conestoga College\\3rd_Term\\Microsoft_Web_Technologies_PROG2230\\Assignments\\MS_WEB_TECH_A3\\MS_WEB_TECH_A3\\InvoiceApp\\InvoiceApp.Web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "InvoiceApp.Web\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-15T07:42:52.949Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

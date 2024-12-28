@@ -1,0 +1,16 @@
+﻿@model Customer
+
+@{
+    ViewBag.Title = "Add a customer";
+}
+
+<h1>@ViewBag.Title</h1>
+
+<form method="post" asp-action="AddCustomer">
+
+         <partial name="_CustomerFormPartial" model="@Model"></partial>
+   
+
+    <input class="btn btn-primary" type="submit" value="Add" />
+    <a class="btn btn-primary" role="button" asp-action="AllCustomers" >Cancel</a>
+</form>

@@ -1,0 +1,96 @@
+﻿@model CustomersViewModel
+
+@{
+    ViewBag.Title = "All Customers";
+
+}
+
+
+
+@if (TempData.Keys.Contains("DeleteMessage"))
+{
+
+    <div class="alert alert-@TempData["deleteClassName"]" alert-dismissible fade show role="alert">
+
+        <span>
+            @TempData["DeleteMessage"]
+            <a class="btn btn-secondary"
+               role="button"
+               asp-action="ToggleDeleteCustomer"
+               asp-route-customerId="@TempData["DeletedCustomerId"]"
+               asp-route-startingLetter="@TempData["DeletedCustomerCategory"].ToString().Split('-')[0]"
+               asp-route-endingLetter="@TempData["DeletedCustomerCategory"].ToString().Split('-')[1]">undo this</a>
+            <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+        </span>
+
+    </div>
+}
+
+@if (TempData.Keys.Contains("Message"))
+{
+
+    <div class="alert alert-@TempData["ClassName"]" alert-dismissible fade show role="alert">
+
+        <span>
+            @TempData["Message"]
+            <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+        </span>
+
+    </div>
+}
+
+
+
+
+<a class="btn-link" asp-action="AddCustomer">add a new customer</a>
+@if (Model.Customers?.Count > 0)
+{
+
+    <table class="table table-striped">
+        <thead>
+            <tr>
+
+                <th>Name</th>
+                <th>Address</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var customer in Model.Customers)
+            {
+                <tr>
+
+                    <td>@customer.Name</td>
+                    <td>@customer.Address1</td>
+                    <td>
+                        <a asp-action="ManageInvoices" asp-route-customerId="@customer.CustomerId" class="btn btn-primary">Invoices</a>
+                        <a asp-action="EditCustomer" asp-route-customerId="@customer.CustomerId" class="btn btn-primary">Edit</a>
+                        <a asp-action="ToggleDeleteCustomer" asp-route-customerId="@customer.CustomerId" asp-route-startingLetter="@Model.ActiveCategory.ToString().Split('-')[0]" asp-route-endingLetter="@Model.ActiveCategory.ToString().Split('-')[1]" class="btn btn-danger">Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <div class="alert alert-info" role="alert">
+        No customers found in @Model.ActiveCategory
+    </div>
+}
+
+
+<br />
+<ul class="nav nav-tabs">
+
+
+    @foreach (var category in Model.Categories)
+    {
+        <li class="nav-item">
+            <a class="nav-link @(Model.ActiveCategory == category ? "active" : "")" asp-action="AllCustomers" asp-route-startingLetter="@category[0]" asp-route-endingLetter="@category[2]">@category</a>
+
+        </li>
+
+    }
+
+</ul>
