@@ -19,13 +19,13 @@ In a world flooded with complex ERP systems, this app brings **clarity and simpl
 
 ## 🧩 Features
 
-| Module        | Description |
-|---------------|-------------|
-| **Customer Manager** | Add, edit, and filter customers by name ranges (e.g., A–E) |
-| **Dynamic Views**    | Razor-based UI rendering using ViewModels |
-| **Service-Driven Logic** | Business logic abstracted via `IInvoiceManagerService` |
-| **Clean Feedback**   | TempData-based alerts for user actions |
-| **Scalable**         | Built to plug in invoice, product, and authentication logic seamlessly |
+| Module                   | Description                                                            |
+|--------------------------|------------------------------------------------------------------------|
+| **Customer Manager**     | Add, edit, and filter customers by name ranges (e.g., A–E)             |
+| **Dynamic Views**        | Razor-based UI rendering using ViewModels                              |
+| **Service-Driven Logic** | Business logic abstracted via `IInvoiceManagerService`                 |
+| **Clean Feedback**       | TempData-based alerts for user actions                                 |
+| **Scalable**             | Built to plug in invoice, product, and authentication logic seamlessly |
 
 ---
 
@@ -38,30 +38,6 @@ In a world flooded with complex ERP systems, this app brings **clarity and simpl
 - **Bootstrap (optional CSS styling)**
 
 ---
-
-## 📁 Project Structure
-
-```
-
-InvoiceApp.sln
-│
-├── InvoiceApp.Web/
-│   ├── Controllers/
-│   │   └── CustomerController.cs
-│   ├── Models/
-│   │   └── Customer.cs, CustomersViewModel.cs
-│   ├── Views/
-│       ├── Customer/
-│       │   ├── All.cshtml
-│       │   ├── Add.cshtml
-│       │   └── Edit.cshtml
-│       └── Shared/...
-└── README.md
-
-````
-
----
-
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -108,7 +84,7 @@ Contributions are welcome! If you want to:
 * Build REST APIs or Razor Components
 * Improve the UI
 
-Open an issue or PR! Let’s build a production-ready version together.
+Open an issue or PR!
 
 ---
 
