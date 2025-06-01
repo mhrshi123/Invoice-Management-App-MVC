@@ -75,24 +75,7 @@ Behind the scenes:
 
 ---
 
-## 👥 Contributing
 
-Contributions are welcome! If you want to:
-
-* Add invoice management
-* Integrate a real database (EF Core or Dapper)
-* Build REST APIs or Razor Components
-* Improve the UI
-
-Open an issue or PR!
-
----
-
-## 🧡 Author
-
-**Maharshi**
-*Computer Programming & Analysis Student @ Conestoga College*
-Building scalable and meaningful tools, one project at a time.
 
 
 
